@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/Isuususu/katehandcrafts/static/css/main.5821d5e9.css",
+    "main.js": "/Isuususu/katehandcrafts/static/js/main.6f9786dc.js",
+    "static/media/logo.png": "/Isuususu/katehandcrafts/static/media/logo.ec2975cc242c0c375252.png",
+    "index.html": "/Isuususu/katehandcrafts/index.html",
+    "main.5821d5e9.css.map": "/Isuususu/katehandcrafts/static/css/main.5821d5e9.css.map",
+    "main.6f9786dc.js.map": "/Isuususu/katehandcrafts/static/js/main.6f9786dc.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5821d5e9.css",
+    "static/js/main.6f9786dc.js"
+  ]
+}
